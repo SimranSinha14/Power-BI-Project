@@ -8,3 +8,5 @@ Investigates customer segmentation based on sales.
 Visualizes key performance indicators (KPIs) such as sales, profit margin, and total product sold.
 Provides insights into sales vs. purchase behavior, highlighting patterns and discrepancies.
 Visualizes key insights through interactive dashboards and reports created with Power BI.
+
+![Dashboard](images/ superstore dashboard.png)
