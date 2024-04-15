@@ -2,12 +2,12 @@
 ## Problem Statement
 This dashboard helps the SuperStore to understand their customers and sales trend better. It helps the store know which product generates good revenue and which subcategory are profitable. Through different charts and graphs, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the key perfermormance indicators and using slicers they can focus on specific region.
 ## Features
-Analyzes sales performance across different product subcategory.
-Explores the top 5 profitable product.
-Investigates customer segmentation based on sales.
-Visualizes key performance indicators (KPIs) such as sales, profit margin, and total product sold.
-Provides insights into sales vs. purchase behavior, highlighting patterns and discrepancies.
-Visualizes key insights through interactive dashboards and reports created with Power BI.
+-1: Analyzes sales performance across different product subcategory.
+-2:Explores the top 5 profitable product.
+-3: Investigates customer segmentation based on sales.
+-4: Visualizes key performance indicators (KPIs) such as sales, profit margin, and total product sold.
+-5: Provides insights into sales vs. purchase behavior, highlighting patterns and discrepancies.
+-6: Visualizes key insights through interactive dashboards and reports created with Power BI.
 
 ![Superstore dashboard](https://github.com/SimranSinha14/Power-BI-Project/assets/127465330/3287254d-4502-4faa-abd4-8e87b1ec3fd9)
 
