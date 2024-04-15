@@ -1,4 +1,4 @@
-# Power-BI-Project
+# SuperStore Sales Analysis
 This project explores the Superstore dataset using Power BI, aiming to analyze sales trends and factors influencing profitability in a retail environment.
 
 #Features
