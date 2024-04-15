@@ -1,6 +1,6 @@
 # SuperStore Sales Analysis
 ## Problem Statement
-This dashboard helps the SuperStore understand their customers and sales trend better. It helps the store know which product generates good revenue and which subcategory are profitable. Through different charts and graphs, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the key perfermormance indicators and using slicers they can focus on specific region.
+This dashboard helps the SuperStore to understand their customers and sales trend better. It helps the store know which product generates good revenue and which subcategory are profitable. Through different charts and graphs, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the key perfermormance indicators and using slicers they can focus on specific region.
 ## Features
 Analyzes sales performance across different product subcategory.
 Explores the top 5 profitable product.
